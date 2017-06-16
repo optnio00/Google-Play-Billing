@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\title.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\title.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_arrow_up.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas3.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\gas3.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\premium.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\premium.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas_icon.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\gas_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas0.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\gas0.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas2.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\gas2.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\premium_icon.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\premium_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gold_icon.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\gold_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\free.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\free.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas1.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\gas1.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\gas4.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xhdpi\\gas4.png"
+    }
+]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\Play-billing\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\Play-billing\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0f3a94d7efd100d2aa151082dad1c6f9ae763082\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\AndroidStudioProjects\Play-billing\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da1c1ea2aed51136ada726b2369ac0df77499d39">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\Play-billing\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b44c5f7d7b0164c6317f1c50b0a6ef3a08b797f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anura\.android\build-cache\38b3a06a8e55a545e84b5ae90fa5cc52341751b1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36491c082ebef58a64dcb63bce4e57f5bf4f9134">
+        <dex dex="C:\Users\anura\AndroidStudioProjects\Play-billing\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d01e682da96cd209955051b837f10ab73e6378d\classes.dex" />
+    </item>
+
+</items>

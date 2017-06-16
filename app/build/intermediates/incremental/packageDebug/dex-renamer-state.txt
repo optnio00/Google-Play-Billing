@@ -1,0 +1,7 @@
+#Thu Jun 15 15:44:26 IST 2017
+base.0=C\:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b44c5f7d7b0164c6317f1c50b0a6ef3a08b797f8
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0f3a94d7efd100d2aa151082dad1c6f9ae763082\\classes.dex
+base.1=C\:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0f3a94d7efd100d2aa151082dad1c6f9ae763082
+file.0=C\:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_b44c5f7d7b0164c6317f1c50b0a6ef3a08b797f8\\classes.dex

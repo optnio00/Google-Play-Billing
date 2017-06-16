@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:18:1-33:12
+	package
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:20:11-39
+		INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:19:11-57
+	xmlns:android
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:18:11-69
+	android:versionCode
+		INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:21:22-64
+application
+ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:22:5-32:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anura\.android\build-cache\06413c2dd39ea6b87fbe42d022ac6a4bfb72d65c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\anura\.android\build-cache\11a701d593c45b5c7129f2264e9487a8c69e8be0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\anura\.android\build-cache\0297f1780b467cf7e54d1e7906dec459bb804f13\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\anura\.android\build-cache\9a38f82a5d7a39cec5a867cc7989e50243117204\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\anura\.android\build-cache\57339148a78ec1dabba30ad32cf110e4bddb70eb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\anura\.android\build-cache\d9419c020ed6eb38cab13b63736dc45fb3358e32\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\anura\.android\build-cache\9ff3f62af89762f2cebda0a6cee24af46bc2100c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\anura\.android\build-cache\ca38d17b5762299cb74dcf700c77fbbe5e8f7212\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\anura\.android\build-cache\2370f86a1abb1b4b52193029f8381523dfd8f7d3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\anura\.android\build-cache\1924b1978482239344d5ba6e4e1b28c80c0f2d75\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.billingclient:billing:dp-1] C:\Users\anura\.android\build-cache\38b3a06a8e55a545e84b5ae90fa5cc52341751b1\output\AndroidManifest.xml:9:5-13:19
+	android:screenOrientation
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:24:18-54
+	android:label
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:23:55-87
+	android:supportsRtl
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:24:55-81
+	android:allowBackup
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:22:47-73
+	android:icon
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:23:18-54
+	android:theme
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:25:18-49
+	tools:replace
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:22:18-46
+activity#com.codelab.GamePlayActivity
+ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:26:19-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anura\.android\build-cache\06413c2dd39ea6b87fbe42d022ac6a4bfb72d65c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\anura\.android\build-cache\11a701d593c45b5c7129f2264e9487a8c69e8be0\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\anura\.android\build-cache\0297f1780b467cf7e54d1e7906dec459bb804f13\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\anura\.android\build-cache\9a38f82a5d7a39cec5a867cc7989e50243117204\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\anura\.android\build-cache\57339148a78ec1dabba30ad32cf110e4bddb70eb\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\anura\.android\build-cache\d9419c020ed6eb38cab13b63736dc45fb3358e32\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\anura\.android\build-cache\9ff3f62af89762f2cebda0a6cee24af46bc2100c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\anura\.android\build-cache\ca38d17b5762299cb74dcf700c77fbbe5e8f7212\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\anura\.android\build-cache\7c76c84cf5b9bad6646d66e3206b510a0cbd281e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\anura\.android\build-cache\2370f86a1abb1b4b52193029f8381523dfd8f7d3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\anura\.android\build-cache\1924b1978482239344d5ba6e4e1b28c80c0f2d75\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.billingclient:billing:dp-1] C:\Users\anura\.android\build-cache\38b3a06a8e55a545e84b5ae90fa5cc52341751b1\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anura\.android\build-cache\06413c2dd39ea6b87fbe42d022ac6a4bfb72d65c\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\anura\AndroidStudioProjects\Play-billing\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anura\.android\build-cache\06413c2dd39ea6b87fbe42d022ac6a4bfb72d65c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\anura\.android\build-cache\11a701d593c45b5c7129f2264e9487a8c69e8be0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\anura\.android\build-cache\0297f1780b467cf7e54d1e7906dec459bb804f13\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\anura\.android\build-cache\9a38f82a5d7a39cec5a867cc7989e50243117204\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\anura\.android\build-cache\57339148a78ec1dabba30ad32cf110e4bddb70eb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\anura\.android\build-cache\d9419c020ed6eb38cab13b63736dc45fb3358e32\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\anura\.android\build-cache\9ff3f62af89762f2cebda0a6cee24af46bc2100c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\anura\.android\build-cache\ca38d17b5762299cb74dcf700c77fbbe5e8f7212\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\anura\.android\build-cache\7c76c84cf5b9bad6646d66e3206b510a0cbd281e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\anura\.android\build-cache\2370f86a1abb1b4b52193029f8381523dfd8f7d3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\anura\.android\build-cache\1924b1978482239344d5ba6e4e1b28c80c0f2d75\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anura\.android\build-cache\06413c2dd39ea6b87fbe42d022ac6a4bfb72d65c\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\anura\.android\build-cache\06413c2dd39ea6b87fbe42d022ac6a4bfb72d65c\output\AndroidManifest.xml:26:9-47
+activity#com.android.billingclient.util.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:dp-1] C:\Users\anura\.android\build-cache\38b3a06a8e55a545e84b5ae90fa5cc52341751b1\output\AndroidManifest.xml:10:9-12:75
+	android:theme
+		ADDED from [com.android.billingclient:billing:dp-1] C:\Users\anura\.android\build-cache\38b3a06a8e55a545e84b5ae90fa5cc52341751b1\output\AndroidManifest.xml:12:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:dp-1] C:\Users\anura\.android\build-cache\38b3a06a8e55a545e84b5ae90fa5cc52341751b1\output\AndroidManifest.xml:11:13-79

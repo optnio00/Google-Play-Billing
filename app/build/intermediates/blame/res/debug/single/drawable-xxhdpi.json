@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\gold_icon.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xxhdpi\\gold_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\premium_icon.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xxhdpi\\premium_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\gas_icon.png",
+        "source": "C:\\Users\\anura\\AndroidStudioProjects\\Play-billing\\app\\src\\main\\res\\drawable-xxhdpi\\gas_icon.png"
+    }
+]
